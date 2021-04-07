@@ -1,0 +1,15 @@
+{
+  "name": "ready",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "og.ginger@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.168",
+    "lodash": "^4.17.21"
+  }
+}
